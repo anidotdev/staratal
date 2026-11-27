@@ -215,7 +215,7 @@ Reference tests are the slow ones. `pytest tests/unit` runs the fast set.
 
 ## Contributors
 
-stratal is built by Animesh and [co-maintainer], two students who wanted to know how this stuff works. Issues and PRs are open to anyone. If you want one of the roadmap items, comment on the issue first so we don't duplicate work. Add yourself here after your first merged PR.
+stratal is built by Animesh and Shivansh, two students who wanted to know how this stuff works. Issues and PRs are open to anyone. If you want one of the roadmap items, comment on the issue first so we don't duplicate work. Add yourself here after your first merged PR.
 
 ## License
 
